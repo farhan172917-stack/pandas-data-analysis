@@ -1,0 +1,12 @@
+Date,Product,Category,Quantity,Price,City,Revenue
+2026-01-05,Laptop,Electronics,2.0,55000,Delhi,110000.0
+2026-01-06,Mouse,Accessories,5.0,500,Delhi,2500.0
+2026-01-07,Keyboard,Accessories,3.0,1200,Noida,3600.0
+2026-01-08,Phone,Electronics,2.0,25000,Noida,50000.0
+2026-01-09,Monitor,Electronics,1.0,12000,Delhi,12000.0
+2026-01-10,Mouse,Accessories,4.0,500,Gurgaon,2000.0
+2026-01-11,Laptop,Electronics,1.0,55000,Noida,55000.0
+2026-01-12,Keyboard,Accessories,2.0,1200,Delhi,2400.0
+2026-01-13,Phone,Electronics,3.0,25000,Gurgaon,75000.0
+2026-01-14,Monitor,Electronics,2.0,12000,Noida,24000.0
+2026-01-16,Laptop,Electronics,1.0,55000,Delhi,55000.0
